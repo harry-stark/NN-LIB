@@ -1,25 +1,29 @@
 # NN-LIB
 
-Implementation of Neural Network from Scratch
+## Implementation of Neural Network from Scratch.The plan(still is) was to make GPU accelerated NeuralNet Library..but until time being...here's what i could cook
 
-Layers:-
+### Layers:-
 Linear
+
 Sigmoid
+
 Relu
 
-Optimizers:-
+### Optimizers:-
 SGD
 
-Loss Function:-
+### Loss Function:-
 SoftmaxLoss
 
 
-Utilities:-
+### Utilities:-
 Plot functions to show result.
 
-Dataset:-
+### Dataset:-
 Spiral
+
 Circle(soon)
+
 You can also try a Custom one :)
 
 
