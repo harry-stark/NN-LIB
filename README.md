@@ -1,6 +1,6 @@
 # NN-LIB
 
-## Implementation of Neural Network from Scratch.The plan(still is) was to make GPU accelerated NeuralNet Library..but until time being...here's what i could cook
+## Implementation of Neural Network from Scratch.The plan(still is) was to make a GPU accelerated NeuralNet Library..but until time being...here's what i could cook :sweat_smile:
 
 ### Layers:-
 Linear
@@ -26,7 +26,10 @@ Circle(soon)
 
 You can also try a Custom one :)
 
-
+## Give it a spin:-
 Run Test.py for a code run...
 
-Will add theory later..
+#### Further Add on:-
+Will add some theory.
+
+V2.0 (Main Course)
